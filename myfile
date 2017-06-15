@@ -1,3 +1,4 @@
 Existing line already in repository in master
 Line added after "git checkout branch1"
 Line 2 added after "git checkout branch1"
+Line 3 added after "git checkout branch1"
