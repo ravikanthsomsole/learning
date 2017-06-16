@@ -1,10 +1,13 @@
 Existing line already in repository in master
+A lot of changes in remote branch1 2
 Line added after "git checkout branch1"
 Line 2 added after "git checkout branch1"
 Line 3 added after "git checkout branch1"
 5 lines added by someone in repository branch1
+A lot of changes in remote branch1 3
 Another line added in remote branch1
 Line 2 added in remote branch1
 Line 3 added in remote branch1
 Line 4 added in remote branch1
 Line 5 added in local branch1
+A lot of changes in remote branch1 1
